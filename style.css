@@ -1,0 +1,26 @@
+body{
+    background-color: darkgrey;
+}
+
+.contador{
+    font-size: 100px;
+}
+
+.num{
+    font-size: 200px;
+}
+
+.botoes{
+    font-size: 30px;
+    border-radius: 5px;
+    letter-spacing: 5px;
+    border-radius: 15px;
+    background-color: darkgrey;
+}
+
+.centro{
+    position: relative;
+    top: 50%;
+    transform: translateY(20%);
+    text-align: center;
+}
